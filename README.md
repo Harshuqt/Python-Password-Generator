@@ -1,5 +1,7 @@
 # Python Password Generator
 
+![image alt](https://github.com/Harshuqt/Python-Password-Generator/blob/0dd3366cc14bb09792c9a5e842a6a9d319eb6f6d/Python-Password-Generator.webp)
+
 ## Introduction
 This Python application allows users to generate secure and customized passwords based on user preferences. The password generator features a visual interface, customizable options, and easy customization.
 
